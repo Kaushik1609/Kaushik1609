@@ -2,7 +2,7 @@
 
 # Hi there, I'm Kaushik Ratnaparkhi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D26A&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;%F0%9F%8F%86+4x+Hackathon+Champion;Building+Intelligent+AI+%26+RAG+Systems;ML+%7C+Deep+Learning+%7C+Data+Science" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D26A&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Student;%F0%9F%8F%86+4x+Hackathon+Winner;Building+Intelligent+AI+%26+RAG+Systems;ML+%7C+Deep+Learning+%7C+Data+Science" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaushik-ratnaparkhi-80ba99373/" target="_blank">
@@ -32,20 +32,6 @@
 - 💬 **Ask Me About**: ML model training, RAG pipelines, prompt engineering, computer vision, and hackathon strategies!
 - 📫 **Get in Touch**: [ratnaparkhikaushik@gmail.com](mailto:ratnaparkhikaushik@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/kaushik-ratnaparkhi-80ba99373/)
 
----
-
-## 🏆 Hackathon Victories (4x Winner)
-
-> *"Fast ideation, robust architecture, and rapid deployment under tight deadlines."*
-
-| # | Event / Hackathon | Domain & Tech | Highlight / Achievement |
-|---|-------------------|---------------|-------------------------|
-| 🥇 | **Hackathon Win #1** | AI / Data Science | **1st Place / Winner** • Built an end-to-end intelligent solution under 24/36 hrs |
-| 🥇 | **Hackathon Win #2** | Generative AI & ML | **1st Place / Winner** • Designed novel AI pipeline with robust accuracy & UX |
-| 🥇 | **Hackathon Win #3** | Real-world Problem Solving | **1st Place / Category Winner** • Recognized for technical innovation and viable MVP |
-| 🥇 | **Hackathon Win #4** | Full-Stack AI Innovation | **Grand Winner** • Scalable deployment, clean architecture & top jury pitch |
-
-*(Tip: Customize the event names and add project links above to showcase specific hackathons!)*
 
 ---
 
